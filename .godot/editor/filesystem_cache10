@@ -1,0 +1,66 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1759108430
+2025_09_28_0me_Kleki.png::CompressedTexture2D::7847352365002306159::1759108199::1759108199::1::::<><><>0<>0<>b6fb58e050c44eef288355b71085847d<>res://.godot/imported/2025_09_28_0me_Kleki.png-dbdbe4779211a613a5ce1bbde3d77438.ctex::
+2025_09_28_0on_Kleki.png::CompressedTexture2D::6309681321469751176::1759108199::1759108199::1::::<><><>0<>0<>37f58415393c15bc3920bb06f46d3dd5<>res://.godot/imported/2025_09_28_0on_Kleki.png-715534ff1c0d29ab00d75d9608a176d6.ctex::
+2025_09_28_0or_Kleki.png::CompressedTexture2D::6413336606680902499::1759108199::1759108199::1::::<><><>0<>0<>6355b3b8e8eccf75988936a3e290f807<>res://.godot/imported/2025_09_28_0or_Kleki.png-440794c11c78465e08174165d240895d.ctex::
+cubicle.gd::GDScript::5665977176743789682::1759108199::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
+cubicle.tscn::PackedScene::3382906453586408556::1759108199::0::1::::<><><>0<>0<><>::uid://cff1kc3w3ha4f::::res://Little_Bits_Office_tileset/Office tiles/Little_Bits_office_walls.png<>uid://cmyv20vrrl7x3::::res://cubicle.gd<>uid://bpyy77wxilux::::res://Little_Bits_Office_tileset/Office tiles/Little_Bits_Office_Floors.png<>uid://cx5wnyixx74s0::::res://Little_Bits_Office_tileset/Office tiles/Little_Bits_office_objects.png<>uid://bki2ppnqouwuh::::res://pickupCoin.wav
+export_presets.cfg::TextFile::-1::1759108430::0::1::::<><><>0<>0<><>::
+global.gd::GDScript::3953777284214203469::1759108199::0::1::::<>Node<><>0<>0<><>::
+icon.svg::CompressedTexture2D::1790880795757653::1759108199::1759108199::1::::<><><>0<>0<>1d558fff71561543e2cf7e0d300c3350<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+line.tscn::PackedScene::5881992250852055448::1759108199::0::1::::<><><>0<>0<><>::uid://p1o2pxf56c6w::::res://Scripts/line.gd
+lounge-jazz-elevator-music-344555.mp3::AudioStreamMP3::816600544928599435::1759108199::1759108199::1::::<><><>0<>0<>3787bf5019f9503729f54e00e10a5fbd<>res://.godot/imported/lounge-jazz-elevator-music-344555.mp3-a76b42a848ddd2850458212712ffad33.mp3str::
+main.tscn::PackedScene::5926153398409090926::1759108199::0::1::::<><><>0<>0<><>::uid://b5ppdxgrcekyt::::res://Scripts/main.gd<>uid://dj8x1nffwv3sr::::res://Scripts/camera_2d.gd<>uid://c6jkds74fn2mm::::res://UI/main_scene.tscn<>uid://bogx8ffbnk2lk::::res://cubicle.tscn<>uid://cff1kc3w3ha4f::::res://Little_Bits_Office_tileset/Office tiles/Little_Bits_office_walls.png<>uid://bpyy77wxilux::::res://Little_Bits_Office_tileset/Office tiles/Little_Bits_Office_Floors.png<>uid://lvtj6fyvww8r::::res://lounge-jazz-elevator-music-344555.mp3
+maleofficecropped.png::CompressedTexture2D::4726986926755804590::1759108199::1759108199::1::::<><><>0<>0<>f54ec9b01b1e87f610d1bb2b1939a3d3<>res://.godot/imported/maleofficecropped.png-03e998469f7778e656543625c7d646f9.ctex::
+New Game Project.apple-touch-icon.png::CompressedTexture2D::6099302081080495151::1759108359::1759108365::1::::<><><>0<>0<>7b8ed235f9fad5c8b6ee06b564304079<>res://.godot/imported/New Game Project.apple-touch-icon.png-1053edc047b72a587254f5a6b8dac3dd.ctex::
+New Game Project.icon.png::CompressedTexture2D::4312538060305606407::1759108359::1759108365::1::::<><><>0<>0<>3d557aa6b76d6f9ffc88d733595aed6a<>res://.godot/imported/New Game Project.icon.png-8dc00be1bbe50f209432347e48f644fb.ctex::
+New Game Project.png::CompressedTexture2D::6298688986737641227::1759108359::1759108365::1::::<><><>0<>0<>d255a96cd40be59dd45ffc027aa77bb7<>res://.godot/imported/New Game Project.png-8e562578ad3f7044b65342f46aec129a.ctex::
+person_node.tscn::PackedScene::8279580677678323827::1759108199::0::1::::<><><>0<>0<><>::uid://8mai8idj4yw4::::res://Scripts/person_node.gd<>uid://dub0cfukgmn87::::res://Little_Bits_Office_tileset/businessman1/businessman1_idle_down.png
+pickupCoin.wav::AudioStreamWAV::3106491096498368327::1759108199::1759108199::1::::<><><>0<>0<>b094305ae0ce05cad99cbc9715d95e0e<>res://.godot/imported/pickupCoin.wav-be680aecee3c783d1a9d6ac216aac9ba.sample::
+README.md::TextFile::-1::1759108199::0::1::::<><><>0<>0<><>::
+Test.tscn::PackedScene::8099162704508995467::1759108199::0::1::::<><><>0<>0<><>::uid://ocqr4kaowgws::::res://icon.svg
+::res://addons/::1759108202
+::res://addons/godot_super-wakatime/::1759108202
+api_key_prompt.tscn::PackedScene::3919262858641749045::1759108202::0::1::::<><><>0<>0<><>::
+counter.tscn::PackedScene::6849360014225833986::1759108202::0::1::::<><><>0<>0<><>::
+decompressor.gd::GDScript::513498479588648040::1759108202::0::1::::<>RefCounted<><>0<>0<><>::
+godot_super-wakatime.gd::GDScript::6277149880384411866::1759108202::0::1::::<>EditorPlugin<><>0<>1<><>::
+heartbeat.gd::GDScript::2715808424618332339::1759108202::0::1::::<>RefCounted<><>0<>0<><>::
+plugin.cfg::TextFile::-1::1759108202::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1759108202::0::1::::<><><>0<>0<><>::
+utils.gd::GDScript::5251015809120159908::1759108202::0::1::::<>RefCounted<><>0<>0<><>::
+::res://fontstuff/::1759108202
+attributesFont.tres::FontFile::3712019711384228331::1759108202::0::1::::<><><>0<>0<><>::
+::res://images/::1759108202
+godotwaka2.png::CompressedTexture2D::7026850610005011835::1759108202::1759108202::1::::<><><>0<>0<>46217c9c5839b2c9f7217cd3af6b8860<>res://.godot/imported/godotwaka2.png-7d3d010fb4adc0d433467ab1cc4754ed.ctex::
+godotwaka.png::CompressedTexture2D::7932361111412089001::1759108202::1759108202::1::::<><><>0<>0<>7360cc7c44aafc955def6087604c985e<>res://.godot/imported/godotwaka.png-ef0518417b4f997d237759e5551dd05d.ctex::
+icon.jpg::CompressedTexture2D::3122668444336440389::1759108202::1759108202::1::::<><><>0<>0<>3d1d80fd4049890345f07c1608fe4e66<>res://.godot/imported/icon.jpg-64f68b30ea939aa8019167e67dffb2db.ctex::
+::res://Little_Bits_Office_tileset/::1759108202
+::res://Little_Bits_Office_tileset/businessman1/::1759108202
+businessman1_idle_down.png::CompressedTexture2D::8566625091976681142::1759108202::1759108202::1::::<><><>0<>0<>5f35b33bd634dd6278dee9889849474b<>res://.godot/imported/businessman1_idle_down.png-b3bf729e0ba40c4c6ca59903c3a3e71e.ctex::
+businessman1_idle_left.png::CompressedTexture2D::1079692880805188843::1759108202::1759108202::1::::<><><>0<>0<>c46c061381c9c191548febc98282be34<>res://.godot/imported/businessman1_idle_left.png-e7052570687fd1a390ca1c4bc1e55d81.ctex::
+businessman1_idle_right.png::CompressedTexture2D::2258563204967375798::1759108202::1759108202::1::::<><><>0<>0<>2d1a2fb04885656b29542647676a14f8<>res://.godot/imported/businessman1_idle_right.png-8704d40d80ef82721da41ef0dafc4cd3.ctex::
+businessman1_idle_up.png::CompressedTexture2D::6287782142933742339::1759108202::1759108202::1::::<><><>0<>0<>b7d07ee34d7bd4e26bc785612bec17dc<>res://.godot/imported/businessman1_idle_up.png-a410f6b5dfe0f9854548e0b4f8c57759.ctex::
+businessman1_walk_down.png::CompressedTexture2D::8153340663170060478::1759108202::1759108202::1::::<><><>0<>0<>dcd5706cbd55ac2260b055d5c2e4853c<>res://.godot/imported/businessman1_walk_down.png-f8094db6495ed09c4d7adca86ab51661.ctex::
+businessman1_walk_left.png::CompressedTexture2D::8754440060797233769::1759108202::1759108202::1::::<><><>0<>0<>3fda91150c8fc5fb62e5584a7218f73f<>res://.godot/imported/businessman1_walk_left.png-8a5f3a22d1473131f809d316e55bb117.ctex::
+businessman1_walk_right.png::CompressedTexture2D::1560716104073190986::1759108202::1759108202::1::::<><><>0<>0<>f9900c8083b6de9352a2d38cc566b9a2<>res://.godot/imported/businessman1_walk_right.png-5f178d7ab9981469b5fd631679a7c08a.ctex::
+businessman1_walk_up.png::CompressedTexture2D::5489144440428608449::1759108202::1759108202::1::::<><><>0<>0<>a02e3fdceacd42e1f120f1bae655e2ce<>res://.godot/imported/businessman1_walk_up.png-11e97563e9f5a130e3481b69482a33e7.ctex::
+::res://Little_Bits_Office_tileset/Office tiles/::1759108202
+Little_Bits_Office_Floors.png::CompressedTexture2D::102656308040630491::1759108202::1759108202::1::::<><><>0<>0<>4d3f65ae9ec0052eef7467de752568e4<>res://.godot/imported/Little_Bits_Office_Floors.png-7a8448b3cf7cd80e049c4ba9a48380e5.ctex::
+Little_Bits_office_objects.png::CompressedTexture2D::6450476366840247233::1759108202::1759108202::1::::<><><>0<>0<>0785bcd3415aac0f0f74a89420e65275<>res://.godot/imported/Little_Bits_office_objects.png-ba92360e7d190f352b9321188b17ec20.ctex::
+Little_Bits_office_walls.png::CompressedTexture2D::5135704123436136727::1759108202::1759108202::1::::<><><>0<>0<>ddb7e2053743ef241405935420a94f1d<>res://.godot/imported/Little_Bits_office_walls.png-4bb2f3600c228554a6a7a520e2e1b633.ctex::
+::res://out/::1759108462
+index.apple-touch-icon.png::CompressedTexture2D::5591338700297110835::1759108430::1759109875::1::::<><><>0<>0<>74142601ccb04b9957229bf5c4205485<>res://.godot/imported/index.apple-touch-icon.png-3c6a888a764ab413eb8ba4b24cde1306.ctex::
+index.icon.png::CompressedTexture2D::286880120636656565::1759108430::1759109875::1::::<><><>0<>0<>941cc2dc31858660c62a070d0bdbea28<>res://.godot/imported/index.icon.png-b21aef162390151fbad8dffadd160e3f.ctex::
+index.png::CompressedTexture2D::2326322922934035622::1759108430::1759109875::1::::<><><>0<>0<>06f5b582e41a6c1a2c5e2fe530432aa5<>res://.godot/imported/index.png-5f24448c4a6492f0b4cfcf3046206bba.ctex::
+::res://Scripts/::1759108202
+camera_2d.gd::GDScript::7860529721965732045::1759108202::0::1::::<>Camera2D<><>0<>0<><>::
+line.gd::GDScript::1107405554159445364::1759108202::0::1::::<>Node2D<><>0<>0<><>::
+main.gd::GDScript::4523968989499305163::1759108202::0::1::::<>Node2D<><>0<>0<><>::
+person_node.gd::GDScript::2341020405233516865::1759108202::0::1::::<>Node2D<><>0<>0<><>::
+::res://UI/::1759108201
+glacial-indifference.bold.otf::FontFile::4553171895980847434::1759108201::1759108201::1::::<><><>0<>0<>92777a801a3099fa9811a34f0523bb94<>res://.godot/imported/glacial-indifference.bold.otf-2e7318e812653afa293f9d397222b61e.fontdata::
+glacial-indifference.regular.otf::FontFile::324554375020788374::1759108201::1759108201::1::::<><><>0<>0<>2cb94723f62677b929cb3a0b81765607<>res://.godot/imported/glacial-indifference.regular.otf-346bb44786e4684d38660324cdb21c24.fontdata::
+main_scene.gd::GDScript::1412662648926615009::1759108201::0::1::::<>CanvasLayer<><>0<>0<><>::
+main_scene.tscn::PackedScene::6967888443440018792::1759108201::0::1::::<><><>0<>0<><>::uid://b54uct0f8v7qs::::res://UI/glacial-indifference.bold.otf<>uid://uekl2vug1myr::::res://UI/main_scene.gd<>uid://b8l11wm1udaeo::::res://maleofficecropped.png<>uid://evhml12gqiqw::::res://UI/glacial-indifference.regular.otf<>uid://cxmwym0rc7l60::::res://2025_09_28_0or_Kleki.png<>uid://dn0ptmm8kge4s::::res://UI/progress_bar.gd<>uid://bs5eomgu55jlb::::res://fontstuff/attributesFont.tres
+progress_bar.gd::GDScript::8124271797531737068::1759108201::0::1::::<>ProgressBar<><>0<>0<><>::
